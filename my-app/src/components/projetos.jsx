@@ -43,7 +43,7 @@ const Projetos = () => {
     <div className="pb-8">
     <p className='text-4xl font-bold inline border-b-4 text-blue-900  w-2'>Projetos
     </p>
-    <h1 className='text-2xl mt-5'> Abaixo segue um pouco do nosso trabalho.</h1>
+    <h1 className='text-2xl mt-5'> Conheça um pouco dos nossos projetos.</h1>
     </div>
     <div className=' max-w-[1000px] h-[400px] w-screen m-0  px-13 relative group'>
       <div

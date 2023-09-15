@@ -20,10 +20,7 @@ const NavBar = () => {
       id: 4,
       link: "Projetos",
     },
-    {
-        id: 6,
-        link: "Serviços",
-      },
+    
       {
         id: 7,
         link: "Entre em contato",
@@ -33,7 +30,7 @@ const NavBar = () => {
   return (
     <div className="flex justify-between items-center w-full h-20 px-4 text-xl text-white bg-blue-900 fixed">
       <div>
-        <img src={Image} alt="logo menu" className="w-16" />
+        <img src={Image} alt="logo menu" className="w-24" />
       </div>
 
       <ul className="hidden md:flex">
