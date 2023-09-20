@@ -27,25 +27,25 @@ const Servicos = () => {
           <ul className="text-white mt-5">
             <a href="https://wa.me/5561999971128" className='flex items-center' target='blanck'>
             <li>
-              <FiPhone className="inline text-2xl mr-2" color='green' />
+              <FiPhone className="inline text-2xl mr-2" color='blue' />
               61 99997-1128
             </li>
             </a>
             <a href="mailto:rnnesquadrias@gmail.com" className="flex items-center" target='blanck'>
             <li>
-              <FiMail className="inline text-2xl mr-2" />
+              <FiMail className="inline text-2xl mr-2" color='blue' />
               rnnesquadrias@gmail.com
             </li>
             </a>
             <a href="https://www.google.com/maps/dir/-15.8072832,-47.9526912/11+-+QR+501+-+Samambaia+Sul,+Bras%C3%ADlia+-+DF,+72311-600/@-15.8495956,-48.1032517,12z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x935bd2c864c904cd:0xe60393452d665986!2m2!1d-48.0896362!2d-15.887153?entry=ttu" target='blanck'>
             <li>
-              <FaMapMarker className="inline text-2xl mr-2" />
+              <FaMapMarker className="inline text-2xl mr-2" color='blue' />
               QR 501 Conjunto 10 Lote 11  Samambaia/DF
             </li>
             </a>
             <a href="https://www.instagram.com/rnn.esquadrias/" target='blanck'>
             <li>
-              <FiInstagram className="inline text-2xl mr-2" color='pink'/>
+              <FiInstagram className="inline text-2xl mr-2 caret-blue-400" color='blue'/>
               @rnn.esquadrias
             </li>
             </a>
