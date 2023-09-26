@@ -54,7 +54,7 @@ const Projetos = () => {
           </p>
           <h1 className='text-2xl mt-5'> Conheça um pouco dos nossos projetos.</h1>
         </div>
-        <div className=' max-w-[1000px] h-[420px] w-screen m-0  px-13 relative group'>
+        <div className=' max-w-[980px] h-[420px] w-screen m-0  px-11 relative group'>
           <div
             style={{
               backgroundImage: `url(${slides[currentIndex].url})`,

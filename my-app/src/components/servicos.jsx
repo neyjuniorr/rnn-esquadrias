@@ -55,7 +55,7 @@ const Servicos = () => {
                     07h00 as 17h00 
                 </h2>
             </li>
-            <img src={Image} alt="logo final" width={160} className='ml-52' />
+            <img src={Image} alt="logo final" width={160} className='ml-32' />
           </ul>
           </div>
         </div>
